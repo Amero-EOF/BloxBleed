@@ -1,0 +1,16 @@
+{
+  "name": "blockbenchmargins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bloxbleed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "blockbench-types": "^4.10.0",
+    "typescript": "^5.4.5"
+  }
+}
